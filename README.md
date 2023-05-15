@@ -154,7 +154,30 @@ You will find complete API documentation on **localhost:3000/**
 npm t
 ```
 
-<img src="https://i.imgur.com/QQ3wyWz.png" alt="Weather App" width="600">
+<img src="https://i.imgur.com/QQ3wyWz.png" alt="Infrastructure Architecture" width="600">
+
+## Budget
+### Infrastructure
+#### Architecture
+<img src="https://i.imgur.com/k8ehLMg.png" alt="Infrastructure Architecture" width="600">
+
+#### Budget
+<img src="https://i.imgur.com/hJqAhPx.png" alt="Infrastructure Budget" width="600">
+
+### Third party services
+#### AIPI
+- Worst case scenario: 3M USD per month
+- Best case scenario: 1K USD per month
+<img src="https://i.imgur.com/1BJ9Kzd.png" alt="Infrastructure Budget" width="600">
+
+
+
+#### Fixer Api
+- Worst case scenario: 27M USD per month
+- Best case scenario: 5.3K USD per month
+<img src="https://i.imgur.com/B9d20iO.png" alt="Infrastructure Budget" width="600">
+
+
 
 ## License
 
