@@ -1,0 +1,10 @@
+# IDE specific
+.idea/
+
+# Generated files
+node_modules/
+dist/
+coverage/
+
+# Enviroment specific
+.env

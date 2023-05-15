@@ -1,0 +1,8 @@
+{
+    "name": "IP API documentation",
+    "version": "1.0.0",
+    "description": "Demo API Application",
+    "template": {
+        "forceLanguage": "en"
+    }
+}
